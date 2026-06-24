@@ -22,7 +22,7 @@ The Attention Coach paradigm directly targets the attentional control mechanisms
 
 ### 1.1 Relational Stimuli and Hippocampal Engagement: A Mechanistic Extension of Attentional Control Theory
 
-While Attentional Control Theory (ACT) traditionally emphasizes prefrontal and anterior cingulate contributions to attentional control, emerging evidence suggests that the hippocampus plays a critical, underappreciated role in regulating attentional processes - particularly when tasks involve relational or spatially structured stimuli. The hippocampus is not merely a memory structure but a dynamic computational hub that supports relational binding, pattern separation, and the integration of self-motion signals, all of which are engaged by the Attention Coach paradigm's relational and optic flow stimuli.
+While Attentional Control Theory (ACT) traditionally emphasises prefrontal and anterior cingulate contributions to attentional control, emerging evidence suggests that the hippocampus plays a critical, underappreciated role in regulating attentional processes - particularly when tasks involve relational or spatially structured stimuli. The hippocampus is not merely a memory structure but a dynamic computational hub that supports relational binding, pattern separation, and the integration of self-motion signals, all of which are engaged by the Attention Coach paradigm's relational and optic flow stimuli.
 
 #### 1.1.1 The Hippocampus as a Relational Processor
 
